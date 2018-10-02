@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'gotham_bold';
+  src: url('../fonts/gotham-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'gotham_book';
+  src: url('../fonts/gotham-Book.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'garamont-Regular.woff';
+  src: url('../fonts/garamont-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
